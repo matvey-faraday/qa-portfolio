@@ -31,44 +31,31 @@ Junior QA Engineer с практикой ручного тестирования
 - DBeaver
 - Android Emulator
 
-## Testing project
+## Projects
 
-### Комплексное тестирование web- и mobile-приложения
+### 1. Комплексное тестирование приложения «Прилавок»
 
-В рамках проекта проводил тестирование web-интерфейса, Android-приложения, REST API и базы данных PostgreSQL.
+Сквозное тестирование web- и mobile-приложения, REST API и базы данных PostgreSQL.
 
-Результаты:
+**Результаты:**
 
-- 58 проверок
+- 58 выполненных проверок
 - 37 Passed
 - 19 Failed
 - 2 Blocked
 - 8 API-проверок
 - 5 проверок данных в PostgreSQL
 - 9 сценариев мобильного тестирования
-- оформлены баг-репорты по найденным дефектам
+- выявлены функциональные, UI-, API-, DB- и mobile-дефекты
 
-## Материалы проекта
+**Материалы проекта:**
 
-- [Тест-анализ требований](./test-analysis.md)
-- [Smoke checklist](./smoke-checklist.md)
-- [Функциональный чек-лист](./functional-checklist.md)
-- [Тест-дизайн](./test-design.md)
-- [Примеры баг-репортов](./bug-reports.md)
-- [API и Database Testing](./api-and-database-testing.md)
-- [Mobile Testing](./mobile-testing.md)
-- [Test Summary Report](./test-summary.md)
-
-## Что демонстрирует проект
-
-Проект показывает практический опыт:
-
-- анализа требований и выявления неясностей;
-- подготовки тестовой документации;
-- применения техник тест-дизайна;
-- функционального и регрессионного тестирования;
-- тестирования REST API;
-- проверки данных в PostgreSQL;
-- мобильного тестирования Android-приложения;
-- локализации дефектов на уровнях UI, API и базы данных;
-- подготовки итогового отчета о качестве версии.
+- [Описание проекта](./01-prilavok-testing/README.md)
+- [Тест-анализ требований](./01-prilavok-testing/test-analysis.md)
+- [Smoke checklist](./01-prilavok-testing/smoke-checklist.md)
+- [Функциональный чек-лист](./01-prilavok-testing/functional-checklist.md)
+- [Тест-дизайн](./01-prilavok-testing/test-design.md)
+- [Примеры баг-репортов](./01-prilavok-testing/bug-reports.md)
+- [API и Database Testing](./01-prilavok-testing/api-and-database-testing.md)
+- [Mobile Testing](./01-prilavok-testing/mobile-testing.md)
+- [Test Summary Report](./01-prilavok-testing/test-summary.md)
